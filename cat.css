@@ -1,0 +1,49 @@
+body{
+    background-color: #F16059;
+   text-align: center;
+   
+}
+
+#title{
+    font-size: 50px;
+    font-family: 'Merienda', cursive;
+}
+
+.time{
+    font-size: 40px;
+    font-family: 'Prompt', cursive; 
+    display:inline-flex;
+}
+
+#cat{
+    position: relative;
+}
+
+.remark{
+ position: absolute;
+ left: 600px;
+ right: 600px;
+ bottom: 50px;
+ font-size: 30px;
+ background-color: rgb(79, 71, 71);
+ color: aliceblue;
+ font-family: 'Prompt', cursive;
+}
+
+
+.suite{
+    font-family: 'Mogra', cursive;
+    font-size: 20px;
+    
+}
+
+#PARTY{
+    margin-top: 30px;
+    background-color: black;
+    opacity: 0.9;
+    color: whitesmoke;
+    width: 280px;
+    height: 60px;
+    font-size: 20px;
+
+}
